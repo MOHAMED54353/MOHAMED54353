@@ -28,104 +28,153 @@ I develop responsive user interfaces, implement backend logic, and work with dat
 ---
 
 
-## Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Development Environment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-### Design Tools
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Fixora-Ai**](https://github.com/MOHAMED54353/Fixora-Ai) | AI-powered platform designed for car maintenance and technical support services. | React (Vite), JavaScript |
-| [**Athar**](https://github.com/MOHAMED54353/Athar) | Premium fashion brand experience |  React, JavaScript |
-| [**Qatma**](https://github.com/MOHAMED54353/Qatma) | Restaurant website | HTML, Css, JavaScript |
-| [**My-Portfolio**](https://github.com/MOHAMED54353/My-Portfolio) | Personal portfolio built with React | React, JavaScript |
-
-## Currently
-
--  Improving my full-stack development skills.
--  Building applications using modern web technologies.
--  Learning software engineering best practices.
--  Exploring better ways to build efficient and maintainable applications.
-
----
-
-## GitHub Stats
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MOHAMED54353&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=180&section=header&text=Muhammed%20El-Sayed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=18" alt="Header" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=MOHAMED54353&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=650&lines=Building+modern%2C+efficient%2C+scalable+web+apps;React+%7C+Node.js+%7C+MongoDB+%7C+MySQL;Clean+code.+Real-world+solutions." alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMED54353&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-el-sayed-416739282/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammed-app.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOHAMED54353)
 
 </div>
 
 ---
 
-## Connect With Me
+## 👨‍💻 About Me
 
-  <br/><br/>
-  My LinkedIn :
-  <a href="https://www.linkedin.com/in/muhammed-el-sayed-416739282/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> 
-  <br/><br/>
-  My Portfolio :
-  <a href="https://muhammed-app.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a> 
-</p>
+I'm a **Full-Stack Software Engineer** focused on building modern, scalable, and maintainable web applications.
+
+I develop responsive user interfaces, implement backend logic, and work with databases to deliver complete web solutions. I value clean code, practical problem-solving, and building software that meets real-world requirements.
+
+- 🎯 Frontend development, backend development, and database integration
+- 🧹 Committed to clean, efficient, and maintainable code
+- 📈 Continuously improving my technical skills
+- 🤝 Open to professional opportunities and collaboration
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="Frontend" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Backend and Database" />
+
+**Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,powershell,figma" alt="Tools" />
+
+</div>
+
+---
+
+## 🚗 Featured Project: Fixora
+
+<div align="center">
+
+**AI-powered platform for car maintenance, technical support, and service booking**
+
+[🔗 View Repository](https://github.com/MOHAMED54353/Fixora-Ai)
+
+<img src="https://img.shields.io/badge/Graduation_Project-0A66C2?style=for-the-badge" alt="Graduation Project" />
+<img src="https://img.shields.io/badge/Status-In_Development-F7DF1E?style=for-the-badge&labelColor=181717" alt="Status" />
+
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,js,dotnet" alt="Fixora Stack" />
+
+</div>
+
+**Fixora** connects car owners with maintenance services. Customers book services for their vehicles, pay online or in cash, and follow the status of every booking. Admins manage the whole workflow from a dedicated dashboard. I built the frontend of the platform in a team, working with a backend team that built the REST API.
+
+### 👤 Customer Experience
+
+- **Smart booking flow**: choose one or more services for a vehicle and book in a few steps.
+- **Technician per service**: every service in a booking gets its own specialist.
+- **Shared available time slots**: the app calculates time slots that work across all the technicians selected for a booking.
+- **Booking details page**: full summary of services, technicians, schedule, and payment status.
+- **Additional issues**: extra issues found during service can be reviewed and approved by the customer, and they stay in sync after a page refresh.
+- **Flexible payments**: pay by card (secure payment iframe with live status polling) or by cash.
+- **Live notifications**: notifications that take each user to the right page based on their role.
+
+### 🛠️ Admin Dashboard
+
+- **Bookings management**: browse all bookings with accurate sorting and instant client-side filtering.
+- **Clickable stat cards**: tap a summary card to filter the bookings list by that status.
+- **Cancel with reason**: admins can cancel a booking and record why.
+- **Cash payment confirmation**: confirm cash payments directly from the booking with an inline dropdown.
+- **Payment status UI**: dynamic Arabic labels and icons that reflect each payment state.
+- **Role-based navigation**: each role lands on the right screens from notifications.
+
+### ⚙️ Technical Highlights
+
+| Area | What I built |
+|------|--------------|
+| **Authentication** | JWT authentication with automatic refresh-token handling through Axios interceptors |
+| **Payments** | A reusable `usePaymentProcessor` hook handling both cash and card flows through a single payments endpoint, plus polling to detect card payment completion |
+| **State and data** | Derived-state merging to keep approved issues visible after refresh, and consistent UTC date handling across components |
+| **Performance and UX** | Full client-side pagination and filtering for fast, accurate dashboards |
+| **Reusable components** | Shared components such as `BookingSummaryCards` and `AdditionalIssuesCard`, extracted from near-duplicate pages |
+| **Responsive design** | Fully responsive navbar with a hamburger side drawer, built on Bootstrap 5 with Arabic **RTL** layout |
+| **Feedback** | Toast notifications for clear success and error messages |
+
+### 🧰 Tech Stack
+
+| Layer | Technologies |
+|-------|--------------|
+| **Frontend** | React, Vite, Bootstrap 5 (RTL), Axios, React Toastify |
+| **Backend** (by the backend team) | ASP.NET Core 8 REST API |
+| **Auth** | JWT with refresh tokens |
+
+---
+
+## 📁 More Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Athar**](https://github.com/MOHAMED54353/Athar) | Premium fashion brand experience | React, JavaScript |
+| [**Qatma**](https://github.com/MOHAMED54353/Qatma) | Restaurant website | HTML, CSS, JavaScript |
+| [**My-Portfolio**](https://github.com/MOHAMED54353/My-Portfolio) | Personal portfolio built with React | React, JavaScript |
+
+---
+
+## 🌱 Currently
+
+- 🔭 Improving my full-stack development skills
+- ⚙️ Building applications using modern web technologies
+- 📚 Learning software engineering best practices
+- 💡 Exploring better ways to build efficient, maintainable apps
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MOHAMED54353&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=MOHAMED54353&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMED54353&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
 
 <div align="center">
 
 **Always learning. Always building. 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,100:0A66C2&height=100&section=footer" alt="Footer" />
 
 </div>
