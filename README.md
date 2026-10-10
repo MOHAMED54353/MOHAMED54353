@@ -74,6 +74,15 @@ I develop responsive user interfaces, implement backend logic, and work with dat
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Fixora-Ai**](https://github.com/MOHAMED54353/Fixora-Ai) | AI-powered platform designed for car maintenance and technical support services. | React (Vite), JavaScript |
+| [**Athar**](https://github.com/MOHAMED54353/Athar) | Premium fashion brand experience |  React, JavaScript |
+| [**Qatma**](https://github.com/MOHAMED54353/Qatma) | Restaurant website | HTML, Css, JavaScript |
+| [**My-Portfolio**](https://github.com/MOHAMED54353/My-Portfolio) | Personal portfolio built with React | React, JavaScript |
+
 ## Currently
 
 -  Improving my full-stack development skills.
