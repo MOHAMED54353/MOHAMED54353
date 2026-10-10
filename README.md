@@ -4,6 +4,9 @@
 Building modern, efficient, and scalable web applications.
 
 [![GitHub](https://img.shields.io/badge/GitHub-MOHAMED54353-181717?style=flat-square&logo=github)](https://github.com/MOHAMED54353)
+  <a href="https://www.linkedin.com/in/muhammed-el-sayed-416739282?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
 ---
 
