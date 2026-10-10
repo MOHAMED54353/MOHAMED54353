@@ -7,8 +7,8 @@ Building modern, efficient, and scalable web applications.
 
 <br/>
 
-<a href="https://github.com/MOHAMED54353"> <img src="https://img.shields.io/badge/GitHub-MOHAMED54353-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/muhammed-el-sayed-416739282/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MOHAMED54353)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-el-sayed-416739282/)
 </div>
 
 ## About Me
