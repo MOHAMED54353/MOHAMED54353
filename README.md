@@ -1,6 +1,6 @@
 <div align="center">
 
-Muhammed El-Sayed
+## Muhammed El-Sayed
 Full-Stack Software Engineer
 
 Building modern, efficient, and scalable web applications.
