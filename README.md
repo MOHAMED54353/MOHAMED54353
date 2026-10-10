@@ -11,10 +11,9 @@ Building modern, efficient, and scalable web applications.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-el-sayed-416739282/)
 
 </div>
----
+<hr>
 
 ## About Me
-
 I'm a **Full-Stack Software Engineer** passionate about designing and building modern web applications.
 
 I enjoy developing responsive user interfaces, building backend services, and creating reliable software solutions. I'm continuously improving my skills, exploring new technologies, and working on projects that turn ideas into practical applications.
