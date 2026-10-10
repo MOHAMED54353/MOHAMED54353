@@ -49,34 +49,68 @@ An AI-powered car maintenance and technical support platform.
 
 [View Repository](https://github.com/MOHAMED54353/Fixora-Ai)
 
-Customers book services for their cars, pay online or in cash, and follow each booking. Admins manage everything from a dashboard. I built the frontend and worked with the backend team that built the API.
+Fixora brings car owners and maintenance services together in one place. Customers book services for their cars, pay online or in cash, and follow every booking from request to completion. Admins run the whole operation from their own dashboard. The platform also includes AI-powered technical support for car owners. I built the frontend and worked closely with the backend team that built the API.
 
-**Customer side**
+### AI-Powered Support
 
-- Booking flow with one or more services per booking
-- A separate technician for each service
-- Available time slots calculated across all the selected technicians
-- Booking details page with services, schedule, and payment status
-- Review and approval of additional issues found during service
-- Card and cash payments
-- Notifications that take each user to the right page based on their role
+- AI-powered technical support built into the platform, next to the booking system
+- Helps car owners get answers about their car problems before and during maintenance
 
-**Admin dashboard**
+### Customer Dashboard
 
-- Full bookings list with sorting and filtering
+- Book one or more services for a vehicle in a single booking
+- Follow every booking and its current status
+- Booking details page with services, technicians, schedule, and payment status
+- Review and approve additional issues found during service
+- Pay by card or cash
+- Notifications that take the user straight to the right page
+
+### Admin Dashboard
+
+- Full list of all bookings, sorted correctly by date
+- Instant filtering without waiting for the server
 - Clickable summary cards that filter bookings by status
-- Cancel a booking with a reason
-- Confirm cash payments directly from the booking
+- Cancel a booking and record the reason
+- Confirm cash payments directly from the booking with an inline dropdown
 - Payment status labels in Arabic with matching icons
+- Role-based notification navigation
 
-**Frontend details**
+### Booking System
 
-- JWT authentication with automatic refresh tokens (Axios interceptors)
-- A reusable payment hook that handles both cash and card flows
-- Arabic RTL layout and a fully responsive navbar
-- Shared components extracted from duplicated booking pages
+- Each service in a booking gets its own specialist technician
+- Available time slots are calculated across all the selected technicians, so the customer only sees times that actually work
+- Handles the backend rule of one active booking per vehicle
+- Additional issues stay in sync after a page refresh
 
-**Stack:** React, Vite, Bootstrap 5, Axios, React Toastify. Backend: ASP.NET Core 8 REST API.
+### Payments
+
+- Cash and card payments both go through a single payments endpoint
+- Card payments run in an embedded payment window, and the app polls to detect when the payment is completed
+- Cash payments are confirmed by the admin
+- Payment states are shown with dynamic labels and icons
+
+### Authentication and Roles
+
+- JWT authentication with automatic refresh tokens using Axios interceptors
+- Separate customer and admin experiences with role-based routing
+
+### Frontend Engineering
+
+- Reusable components extracted from duplicated booking pages
+- A reusable payment hook shared by the cash and card flows
+- Client-side pagination and filtering for fast and accurate dashboards
+- Consistent UTC date handling across components
+- Fully responsive navbar with a side drawer on small screens
+- Arabic RTL layout
+- Toast notifications for clear success and error feedback
+
+### Stack
+
+| Layer | Technologies |
+|-------|--------------|
+| Frontend | React, Vite, Bootstrap 5, Axios, React Toastify |
+| Backend (built by the backend team) | ASP.NET Core 8 REST API |
+| Authentication | JWT with refresh tokens |
 
 ---
 
