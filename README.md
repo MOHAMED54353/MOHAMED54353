@@ -45,7 +45,7 @@ I build responsive user interfaces, work with backend logic and databases, and c
 
 ## Featured Project: Fixora
 
-An AI-powered car maintenance and technical support platform. This is my graduation project.
+An AI-powered car maintenance and technical support platform.
 
 [View Repository](https://github.com/MOHAMED54353/Fixora-Ai)
 
