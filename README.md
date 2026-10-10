@@ -14,17 +14,19 @@ Building modern, efficient, and scalable web applications.
 <hr>
 
 ## About Me
-I'm a **Full-Stack Software Engineer** passionate about designing and building modern web applications.
 
-I enjoy developing responsive user interfaces, building backend services, and creating reliable software solutions. I'm continuously improving my skills, exploring new technologies, and working on projects that turn ideas into practical applications.
+I'm a **Full-Stack Software Engineer** focused on building modern, scalable, and maintainable web applications.
 
--  Interested in full-stack web development.
--  Focused on writing clean, maintainable, and efficient code.
--  Always learning new technologies and improving my skills.
--  Open to collaborating on interesting projects.
--  Passionate about solving problems through code.
+I develop responsive user interfaces, implement backend logic, and work with databases to deliver complete web solutions. I value clean code, practical problem-solving, and building software that meets real-world requirements.
+
+* Experienced in developing modern web applications.
+* Focused on frontend development, backend development, and database integration.
+* Committed to writing clean, efficient, and maintainable code.
+* Continuously improving my technical skills and development practices.
+* Open to professional opportunities and collaboration on software projects.
 
 ---
+
 
 ## Tech Stack
 
@@ -102,13 +104,15 @@ I enjoy developing responsive user interfaces, building backend services, and cr
 <p align="left">
   <a href="https://github.com/MOHAMED54353">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a> <br/>
-  <a href="https://www.linkedin.com/in/muhammed-el-sayed-416739282?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  </a> My GitHub
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/muhammed-el-sayed-416739282/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> <br/>
+  </a> My LinkedIn
+  <br/><br/>
   <a href="https://muhammed-app.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> My Portfolio
 </p>
 
 ---
