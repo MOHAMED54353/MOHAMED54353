@@ -101,18 +101,16 @@ I develop responsive user interfaces, implement backend logic, and work with dat
 
 ## Connect With Me
 
-<p align="left">
-  <a href="https://github.com/MOHAMED54353">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a> My GitHub
   <br/><br/>
+  My LinkedIn :
   <a href="https://www.linkedin.com/in/muhammed-el-sayed-416739282/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> My LinkedIn
+  </a> 
   <br/><br/>
+  My Portfolio :
   <a href="https://muhammed-app.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a> My Portfolio
+  </a> 
 </p>
 
 ---
