@@ -7,8 +7,9 @@ Building modern, efficient, and scalable web applications.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MOHAMED54353)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-el-sayed-416739282/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOHAMED54353)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-el-sayed-416739282/)
+
 </div>
 
 ## About Me
@@ -101,10 +102,10 @@ I enjoy developing responsive user interfaces, building backend services, and cr
 <p align="left">
   <a href="https://github.com/MOHAMED54353">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  </a> <br/>
   <a href="https://www.linkedin.com/in/muhammed-el-sayed-416739282?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a> <br/>
   <a href="https://muhammed-app.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
