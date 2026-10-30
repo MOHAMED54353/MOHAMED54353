@@ -147,17 +147,16 @@ Fixora brings car owners and maintenance services together in one place. Custome
 
 ## Connect With Me
 
-  <br/><br/>
-  My LinkedIn :
-  <a href="https://www.linkedin.com/in/muhammed-el-sayed-416739282/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> 
-  <br/><br/>
-  My Portfolio :
-  <a href="https://muhammed-app.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a> 
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammed-el-sayed-416739282/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://muhammed-app.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
 
 ---
 
